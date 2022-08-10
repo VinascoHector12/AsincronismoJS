@@ -1,0 +1,22 @@
+{
+  "name": "3.asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinascoHector12/AsincronismoJS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Hector Vinasco hectorvinasco12@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinascoHector12/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/VinascoHector12/AsincronismoJS#readme"
+}
