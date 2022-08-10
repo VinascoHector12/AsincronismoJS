@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/VinascoHector12/AsincronismoJS/issues"
   },
-  "homepage": "https://github.com/VinascoHector12/AsincronismoJS#readme"
+  "homepage": "https://github.com/VinascoHector12/AsincronismoJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
